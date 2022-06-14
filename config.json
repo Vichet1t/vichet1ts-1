@@ -1,9 +1,9 @@
 {
-	"ip":"Vichet1ts.aternos.me",
-	"port": 17542,
+	"ip":"10000Iq.aternos.me",
+	"port": 18864,
 	"name": "afkbot1",
-	"auto-night-skip":"false",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345",
-	"login-cmd":"/login 12345"
+	"login-cmd":"/login 24h"
 }
